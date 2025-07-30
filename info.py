@@ -222,3 +222,8 @@ cmds = [
     {"grp_cmds": "Check Group Commands"},
     {"admin_cmds": "Bot Admin Commands"},
 ]
+
+# ====== 3 Shortener Verification Switches ======
+VERIFY_01 = True
+VERIFY_02 = True
+VERIFY_03 = True
